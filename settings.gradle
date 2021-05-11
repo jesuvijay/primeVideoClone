@@ -1,0 +1,2 @@
+rootProject.name = "primeVideoClone"
+include ':app'
